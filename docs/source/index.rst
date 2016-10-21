@@ -131,4 +131,4 @@ Get *Biryani*
 
 *Biryani* is available as an easy-installable package on the `Python Package Index <http://pypi.python.org/pypi/Biryani>`_.
 
-The code can be found in a Git repository, at http://gitorious.org/biryani.
+The code can be found in a Git repository, at https://github.com/etalab/biryani.
